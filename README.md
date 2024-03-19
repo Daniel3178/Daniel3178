@@ -12,7 +12,7 @@
   A weblog for a friend
 
 <p>
-Welcome to my personal GitHub, my name is Daniel and I study Information Technology at KTH. Here I share numerous projects I've undertaken during my study years and leisure time. While many of my projects are console-based programs, I've recently delved deeper into web development, focusing on modern front-end technologies such as React and various JavaScript libraries. Currently, my primary focus lies in user interface development, but I plan to expand into mobile, server-side, and desktop applications soon.
+Welcome to my personal GitHub, my name is Daniel and I am studying a degree program in Information and Communication Technology at KTH, Stockholm. Here I share numerous projects I've undertaken during my study years and leisure time. While many of my projects are console-based programs, I've recently delved deeper into web development, focusing on modern front-end technologies such as React and various JavaScript libraries. Currently, my primary focus lies in user interface development, but I plan to expand into mobile, server-side, and desktop applications soon.
 
 Looking ahead, I'm eager to explore the realm of AI and deepen my understanding of machine learning. Therefore, don't be surprised if future projects delve into AI-related domains. Stay tuned for future updates!
 
