@@ -11,7 +11,11 @@
 🔭 I’m currently working on:
   A weblog for a friend
 
-  
+<p>
+Welcome to my personal GitHub, where I share numerous projects I've undertaken during my study years and leisure time. While many of my projects are console-based programs, I've recently delved deeper into web development, focusing on modern front-end technologies such as React and various JavaScript libraries. Currently, my primary focus lies in user interface development, but I plan to expand into mobile, server-side, and desktop applications soon.
+
+Looking ahead, I'm eager to explore the realm of AI and deepen my understanding of machine learning. Therefore, don't be surprised if future projects delve into AI-related domains. Stay tuned for future updates!
+</p>
 🛠️ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,postgres,elixir,py,linux,js,html,css,redux,react,tailwind,figma,git&perline=8)](https://skillicons.dev)
