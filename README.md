@@ -9,7 +9,7 @@
 
 
 🔭 I’m currently working on:
-  A weblog for a friend
+  Android development
 
 <p>
 Welcome to my personal GitHub, my name is Daniel and I am studying a degree programme in Information and Communication Technology at KTH, Stockholm. Here I share numerous projects I've undertaken during my study years and leisure time. While many of my projects are console-based programs, I've recently delved deeper into web development, focusing on modern front-end technologies such as React and various JavaScript libraries. Currently, my primary focus lies in user interface development, but I plan to expand into mobile, server-side, and desktop applications soon.
