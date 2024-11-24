@@ -20,7 +20,7 @@ You can also reach out to me via LinkedIn: https://www.linkedin.com/in/daniel-ib
 </p>
 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,postgres,elixir,py,linux,js,html,css,redux,react,tailwind,figma,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,postgres,elixir,py,linux,git,docker,js,ts,html,css,redux,react,next,mongo,tailwind,figma&perline=10)](https://skillicons.dev)
 
 ---
 
